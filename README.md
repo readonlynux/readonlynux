@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a quick overview of what I'm currently work
 <details>
 <summary>🔭 <b>I'm currently working on</b></summary>
 
-  - I'I am exploring and testing [DSU (Dynamic System Updates)](https://developer.android.com/topic/dsu) and [GSI (Generic System Images)](https://developer.android.com/topic/generic-system-image/) with my [Redmi Note 12 4G (tapas)](https://gsmarena.com/xiaomi_redmi_note_12_4g-12188.php).
+  - I am exploring and testing [DSU (Dynamic System Updates)](https://developer.android.com/topic/dsu) and [GSI (Generic System Images)](https://developer.android.com/topic/generic-system-image/) with my [Redmi Note 12 4G (tapas)](https://gsmarena.com/xiaomi_redmi_note_12_4g-12188.php).
 </details>
 
 <details>
