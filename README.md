@@ -23,4 +23,4 @@ Welcome to my GitHub profile! Here's a quick overview of what I'm currently work
 
 <a href="https://xdaforums.com/m/readonlynux.13205424/">![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=flat)</a> <a href="https://github.com/readonlynux/">![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=readonlynux&show_icons=true&hide_title=false&theme=radical)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=readonlynux&show_icons=true&hide_title=false&theme=radical)
