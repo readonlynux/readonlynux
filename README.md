@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=readonlynux&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Welcome to my GitHub profile! Here's a quick overview of what I'm currently working on and learning:
 
